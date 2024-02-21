@@ -1,0 +1,18 @@
+1- No contexto da computação, um arquivo é uma unidade de armazenamento de dados
+que é identificada por meio de nome e localização em um contexto sistemático de arquivos.
+Conjunto de dados com nome.
+
+1.1- Arquivo de texto é um tipo de arquivo contendo apenas texto simples, sem formatação
+especial (como fontes, cores e imagens) ou código de formatação embutido mas pode
+conter documentos e scripts.
+
+2- variável neste presente contexto é um espaço reservado para armazenar um valor
+específico, podendo conter diferentes dados sendo fundamentais para armazenar e
+manipular os dados visando plena execução do devido programa. Logo em suma é um
+nome simbólico para um valor ou espaço de armazenamento que permite a manipulação
+dinâmica do programa.
+
+3- É um sistema dedicado a fornecer serviços, recursos ou funcionalidades para outros
+computadores, os servidores podem oferecer uma variedade de serviços de hospedagens
+aos clientes, coisas como sites, armazenamento de dados, compartilhamento de arquivos,
+processamento de dados e etc.
