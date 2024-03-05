@@ -16,3 +16,15 @@ dinâmica do programa.
 computadores, os servidores podem oferecer uma variedade de serviços de hospedagens
 aos clientes, coisas como sites, armazenamento de dados, compartilhamento de arquivos,
 processamento de dados e etc.
+--------------------------------------------------------------------------------------
+1- A lei Geral de Proteção de dados determina em seu texto acerca dos data centers brasileiros 
+sendo esses onde os sistemas computacionais de uma determinada empresa/ organização são armazenados. 
+Essa forma de defesa traz consigo métodos e medidas conhecidos como, criptografia, controle de 
+acesso e regras de transferencia de dados. Os centros de dados são cruciais para a aplicação da LGPD, 
+garantindo a segurança e privacidade dos dados de quem dispõe.
+
+2- Formatos de arquivos podem ser separados em proprietários e abertos, possuindo caracteristicas distintas
+exemplos de formatos proprietários: DOCX, XLSX, PDF, MP3...
+Exemplos de formartos abertos: CSV, JSON, XML, ODF, ODS...
+No que tange dados públicos em formato aberto, tornam-se mais acessiveis e reciclaveis para todos. A transparencia
+e a participação pública são incentivadas, além de evitar a dependencia de softwares específicos. Formatos de propriedade intelectual tem capacidade de inibir acesso e o uso de dados, o que pode inibir uma governança efiiente e a prestação de serviços públicos de qualidade.
