@@ -28,3 +28,46 @@ exemplos de formatos proprietários: DOCX, XLSX, PDF, MP3...
 Exemplos de formartos abertos: CSV, JSON, XML, ODF, ODS...
 No que tange dados públicos em formato aberto, tornam-se mais acessiveis e reciclaveis para todos. A transparencia
 e a participação pública são incentivadas, além de evitar a dependencia de softwares específicos. Formatos de propriedade intelectual tem capacidade de inibir acesso e o uso de dados, o que pode inibir uma governança efiiente e a prestação de serviços públicos de qualidade.
+------------------------------------------------------------------------------------------
+I- Python - Linguagem de programação conhecida por uma sintesi simples e legivel, sendo acessivel a iniciantes. Aderido em uma diversidade de domínios como: análise de dados, automação de tarefas e inteligencia artificial. Sua vasta biblioteca padrão e grande comunidade de desenvolvedores contribuem para popularidade e versatilidade.
+
+Código:
+# Solicita dois números ao usuário
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+# Calcula a soma
+soma = num1 + num2
+
+# Exibe o resultado
+print("A soma de", num1, "e", num2, "é igual a", soma)
+
+
+II- Ruby - Linguagem de programação de alto nível, com uma sintaxe simples e expressiva, orientada a objetos e de tipagem dinâmica, tudo se torna semelhante a um objeto. Oferece estruturas convenientes por exemplo ARRAYS e HASHES além de suportar blocos e iteradores. O ruby permite inclusão de funcionalidades em classes promovendo a reutilização de código de maneira eficiente. Além disso possui sistema robusto na forma controlada de se lidar com erros, tornando-a popular à aplicativos.
+
+Código:
+# Solicita dois números ao usuário
+print "Digite o primeiro número: "
+num1 = gets.chomp.to_f
+print "Digite o segundo número: "
+num2 = gets.chomp.to_f
+
+# Calcula a soma
+soma = num1 + num2
+
+# Exibe o resultado
+puts "A soma de #{num1} e #{num2} é igual a #{soma}"
+
+
+III- JavaScript- Linguagem de programa amplamente utilizada no desenvolvimento web para tornar as páginas interativas e dinâmicas. O "Java", como é popularmente chamado, permite manipular elementos da página, responder a eventos do usuário e enviar solicitações para servidores. Possui síntese relativamente simples e é uma habilidade valiosa para desenvolvedores front-end e full-stack.
+
+Código: 
+// Solicita dois números ao usuário
+let num1 = parseFloat(prompt("Digite o primeiro número: "));
+let num2 = parseFloat(prompt("Digite o segundo número: "));
+
+// Calcula a soma
+let soma = num1 + num2;
+
+// Exibe o resultado
+console.log("A soma de", num1, "e", num2, "é igual a", soma);
