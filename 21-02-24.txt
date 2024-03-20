@@ -113,5 +113,33 @@ else:
     print ("Você é um idoso.")
 
 Você é adulto.
+-------------------------------------Semana 05 - Algoritmos
+
+1.
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+arr = [6, 2, 23, 45, 73, 45, 88, 91]
+bubble_sort(arr)
+print("Ordem crescente:")
+for i in range(len(arr)):
+    print(arr[i], end=" ")
+2.
+def imprimir_vogais(frase):
+    vogais = "aeiouAEIOU"
+    for letra in frase:
+        if letra in vogais:
+            print(letra, end=" ")
+frase = "Fluminense maior time do mundo"
+print("Vogais na frase:")
+imprimir_vogais(frase)
+
+
+
+
+
 
 
