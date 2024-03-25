@@ -113,7 +113,8 @@ else:
     print ("Você é um idoso.")
 
 Você é adulto.
--------------------------------------Semana 05 - Algoritmos
+-------------------------------------
+Semana 05 - Algoritmos
 
 1.
 def bubble_sort(arr):
@@ -136,9 +137,60 @@ def imprimir_vogais(frase):
 frase = "Fluminense maior time do mundo"
 print("Vogais na frase:")
 imprimir_vogais(frase)
+----------------------------------------------------------------------------
+EXERCÍCIO - SEMANA 06 - INTRODUÇÃO A PROGRAMAÇÃO PYTHON
 
+# Variáveis para armazenar os números
+numero1 = 16
+numero2 = 21
+numero3 = 37
+numero4 = 38
 
+# Variáveis para armazenar a frase e a palavra
+frase = "Cano melhor que Pelé."
+palavra = "Fluminense"
 
+# Calculando a média aritmética
+media = (numero1 + numero2 + numero3 + numero4) / 4
+
+# Calculando o quadrado de um dos números
+quadrado_numero = numero3 ** 2
+
+# Calculando o dobro de um dos números
+dobro_numero = numero4 * 2
+
+# Contando a quantidade de letras da palavra
+quantidade_letras = len(palavra)
+
+# Contando a quantidade de espaços em branco da frase
+quantidade_espacos = frase.count(' ')
+
+# Verificando se o primeiro número é maior que o segundo
+primeiro_maior = numero1 > numero2
+
+# Encontrando o maior número
+maior_numero = max(numero1, numero2, numero3, numero4)
+
+# Imprimindo os resultados
+print("Média aritmética dos números:", media)
+print("Quadrado de um dos números:", quadrado_numero)
+print("Dobro de um dos números:", dobro_numero)
+print("Quantidade de letras da palavra:", quantidade_letras)
+print("Quantidade de espaços em branco da frase:", quantidade_espacos)
+print("O primeiro número é maior que o segundo:", primeiro_maior)
+print("Maior número entre os quatro números:", maior_numero)
+
+RESULTADO: 
+
+Média aritmética dos números: 28.0
+Quadrado de um dos números: 1369
+Dobro de um dos números: 76
+Quantidade de letras da palavra: 10
+Quantidade de espaços em branco da frase: 3
+O primeiro número é maior que o segundo: False
+Maior número entre os quatro números: 38
+
+=== Code Execution Successful ===
 
 
 
