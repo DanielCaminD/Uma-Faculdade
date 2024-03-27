@@ -191,7 +191,50 @@ O primeiro número é maior que o segundo: False
 Maior número entre os quatro números: 38
 
 === Code Execution Successful ===
+------------------------------------------------------
+EXERCÍCIOS EM AULA
 
+def soma (a, b):
+    return a + b
 
+def quadrado (a):
+    return a **2
+
+def hipotenusa (cat1, cat2):
+    return soma(quadrado(cat1),quadrado(cat2))**(1/2)
+    
+def simples(cor):
+    if cor== 'verde'
+    return 'Escolheu certo'
+        
+    def medio(cor):
+    if cor== 'vermelho'
+    return 'Escolheu certo'
+    else:
+        return 'tente outra cor'
+        
+   def completo(cor):
+    if cor== 'grená'
+    return 'Escolheu certo'
+    elif cor == 'branco'
+        return 'não tem salvação'
+    else:
+        return 'tente outra cor'
+        
+      print("==== começando o while====")  
+    contador = 0
+    while contador < 10:
+        print(contador)
+        contador += 1
+        
+      print("==== começando o for com range(10) ====")  
+        for i in range(10):
+            print(i)
+            
+        for item in [1, 45, 78, 'a', [3,5]}:
+            print (item)
+        for letra in 'minha string'
+        
+        
 
 
