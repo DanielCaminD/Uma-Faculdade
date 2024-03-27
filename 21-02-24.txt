@@ -230,6 +230,13 @@ def simples(cor):
       print("==== começando o for com range(10) ====")  
         for i in range(10):
             print(i)
+            
+        for item in [1, 45, 78, 'a', [3,5]}:
+            print (item)
+        for letra in 'minha string'
+        
+        
+
 
 --------------------------------------
 
@@ -261,11 +268,4 @@ if __name__ == "__main__":
 
     num_linhas = 10
     gerar_triangulo(num_linhas)
-            
-        for item in [1, 45, 78, 'a', [3,5]}:
-            print (item)
-        for letra in 'minha string'
-        
-        
-
 
